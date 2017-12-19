@@ -1714,22 +1714,6 @@ body {
 .cid-qDABpaGErj .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qDLvRS7oog {
-  background-image: url("../../../assets/images/01room-1-1200x750.jpg");
-}
-.cid-qDLvRS7oog .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qDLvRS7oog .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qDLvRS7oog .content-container {
-    padding-right: 5rem;
-  }
-}
 .cid-qEfjgwhCzj {
   background-image: url("../../../assets/images/01room-2-1200x750.jpg");
 }
@@ -1866,10 +1850,10 @@ body {
   }
 }
 .cid-qEfjgwhCzj .mbr-section-subtitle DIV {
-  text-align: right;
+  text-align: center;
 }
 .cid-qEfjgwhCzj DIV {
-  text-align: right;
+  text-align: center;
 }
 .cid-qDLZQjGdot {
   padding-top: 30px;
